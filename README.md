@@ -1,0 +1,1 @@
+# SillyTavern-WorldInfo-Images
