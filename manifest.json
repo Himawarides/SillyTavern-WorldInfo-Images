@@ -1,0 +1,8 @@
+{
+  "name": "World Info Image",
+  "description": "Adds image URL support to World Info entries",
+  "version": "1.0.0",
+  "author": "SillyTavern Community",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/st-world-info-image"
+}
